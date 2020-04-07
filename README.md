@@ -1,4 +1,3 @@
-# VBA-challenge
 # VBA Challenge Homework
 
 VBA Challenge will loop through all the stocks for one year and output the following information.
